@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+/* /////////////////Section from filmes ////////// */
+
+#filmes{
+    background-color: rgba(35, 46, 47, 1);
+    flex-direction: column;
+    width: 90%;
+    height: auto;
+    margin-top: 5vh;
+    margin-left: 15vh;
+    overflow: hidden;
+    position: relative; /* Para garantir que não haja scroll inesperado */
+}
+
+#filmes .categoria_box{
+    position: relative;
+    background-color: rgba(35, 46, 47, 1);
+    width: 100%;
+    margin: 15px 10px 10px 10px;
+}
+
+#filmes .categoria_box > h2{
+    display: block;
+    color: white;
+    font-size: 50px;
+}
+
+#filmes .categoria_box .carrossel_filme{
+    position: relative;
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+    overflow-x: auto;
+    -ms-overflow-style: none;  
+    scrollbar-width: none; 
+}
+
+.carrossel{
+    position: absolute;
+}
+
+.item{
+    background-color: rgba(35, 46, 47, 1);
+    margin: 10px 10px 10px 10px;
+    width: 170px;
+    height: 260px;
+    box-shadow: 0.5px 0.5px 10px rgba(0, 0, 0, 0.225);
+}
+
+.item > p{
+    color: white;
+    font-size: 10px;
+    margin: 0px 10px;
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 700; 
+    letter-spacing: 0.5px; 
+    overflow: hidden;
+}
+
+.capa_filme{
+    width: 170px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+
+.arrow_left, .arrow_right{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: auto;
+    bottom: 0;
+    font-size: 20px;
+    line-height: 250px;
+    width:40px;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    transition:all 400ms ease-in-out;
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+}
+
+.arrow_right{
+    left: auto;
+    right: 0;
+}
+
+.arrow_left:hover , .arrow_right:hover{
+    font-size: 40px;
+}
+
