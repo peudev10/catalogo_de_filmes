@@ -9,9 +9,17 @@ Este projeto é uma aplicação web de catálogo de filmes que utiliza a OMDBAPI
 
 ## Capturas de Tela
 ### Página Principal
-![Página Principal](path/to/your/screenshot1.png)
+
+<div align="center">
+<img src="https://private-user-images.githubusercontent.com/142743646/405729459-78e75e2c-9b9d-45a6-a9c4-0e2084201801.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1NjgzMzcsIm5iZiI6MTczNzU2ODAzNywicGF0aCI6Ii8xNDI3NDM2NDYvNDA1NzI5NDU5LTc4ZTc1ZTJjLTliOWQtNDVhNi1hOWM0LTBlMjA4NDIwMTgwMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMlQxNzQ3MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NjQxYzU3NDhjMGNiNzMxMTc5ZGYyYzMyNzQwYTUzMTQwZWNhMGRmNWYzYzFmMDYyY2ZhZWM0ZWQ4MjU5MGQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TV4hcFwdfYeluP7zsClSbddm27p5xiLVwcQSl-NlMMc" width="700px" />
+</div>
+
 ### Página de Detalhes do Filme
-![Página de Detalhes do Filme](path/to/your/screenshot2.png)
+
+<div align="center">
+<img src="https://private-user-images.githubusercontent.com/142743646/405730739-1bb35c6c-1ff7-4213-b32d-2ce645d03979.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1NjgxNzgsIm5iZiI6MTczNzU2Nzg3OCwicGF0aCI6Ii8xNDI3NDM2NDYvNDA1NzMwNzM5LTFiYjM1YzZjLTFmZjctNDIxMy1iMzJkLTJjZTY0NWQwMzk3OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMlQxNzQ0MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYmY3MWJhMzg5OTEyMTYzNWMzNWI4ZTNmNzViYmNjNTYwOTk3NTQwMzZmODZlMThiYzM3MTYyNWMzMjYyMWY4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WoZVIsrzo74-juTVA1iVrq35-Sdivd3OYffeaEVk3Vg" width="700px" />
+</div>
+
 
 ## Pré-requisitos
 - Uma chave de API válida da [OMDBAPI](https://www.omdbapi.com/).
